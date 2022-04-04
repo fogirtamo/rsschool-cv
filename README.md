@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fogirtamo.github.io/rsschool-cv/cv
