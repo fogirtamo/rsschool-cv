@@ -7,3 +7,8 @@
     * Discord: @fogirtamo
 4. Country: Belarus
 5. City: Minsk
+6. Skills:
+    * HTML
+    * CSS
+    * JavaScript
+7. English: A2-B1
